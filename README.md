@@ -1,4 +1,5 @@
 If you use the code, please citation:
+
 1、@article{Bhandari2024,
 title={IoTvulCode: AI-enabled vulnerability detection in software products designed for IoT applications},
 author={Guru Prasad Bhandari, Gebremariam Assres, Nikola Gavric, Andrii Shalaginov & Tor-Morten Grønli},
@@ -7,6 +8,9 @@ doi={10.1007/s10207-024-00848-6}
 year={2024},
 publisher={Springer}
 }
+
+
+
 2、@inproceedings{chen2024improving,
 title={Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection},
 author={Chen, Yizhou and Sun, Zeyu and Gong, Zhihao and Hao, Dan},
